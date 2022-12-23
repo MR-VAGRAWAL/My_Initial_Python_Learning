@@ -4,8 +4,7 @@ def my_matrix(ls1):
     for i in ls1:
         if len(i) != n:
             return False
-    return True
-    
+    return True  
 if my_matrix(ls):
     for i in ls:
         print(*i,sep = "\t")
