@@ -2,7 +2,7 @@ print('''MY
 NAME
 IS 
 VAIBHAV''')
-a="Vaibhav" 
+a=" Vaibhav " 
 b=25
 c=333.333
 d=True
